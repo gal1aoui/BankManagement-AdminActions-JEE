@@ -1,0 +1,12 @@
+package compte.operations;
+
+import javax.persistence.DiscriminatorValue;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="VERSEMENTS")
+@DiscriminatorValue("V")
+public class Versement extends Operation {
+	
+}

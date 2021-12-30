@@ -1,0 +1,3937 @@
+!SESSION 2021-12-23 14:46:45.124 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-23 15:58:06.337
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-23 15:59:42.118
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-23 16:12:25.299
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-23 16:12:27.826
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-23 16:18:45.345
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-23 16:18:45.627
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-23 16:18:46.613
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-23 16:18:49.033
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-23 16:27:34.929
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-23 16:27:35.143
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-23 16:27:36.136
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-23 16:27:38.550
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-23 17:43:01.500
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-23 17:43:01.725
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-23 17:43:02.740
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-23 17:43:08.660
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 17:44:00.705
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-23 17:47:13.547
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-23 17:47:13.887
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-23 17:47:14.886
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-23 17:47:17.296
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 17:49:04.149
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-23 17:49:18.760
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-23 17:49:18.992
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-23 17:49:19.975
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-23 17:49:22.383
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 17:55:54.308
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:11:26.450
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:11:53.896
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:12:17.545
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:13:45.220
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:18:33.555
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:20:38.973
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:25:23.526
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 18:53:28.756
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 19:09:50.743
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 19:13:59.986
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-23 21:04:00.096
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-23 21:04:11.891
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-23 21:04:12.115
+!MESSAGE Server processes have been terminated.
+!SESSION 2021-12-25 12:58:42.704 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:00:08.487
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-25 13:00:12.294
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-25 13:00:32.568
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:04:25.846
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:04:36.685
+!MESSAGE 3 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:05:05.285
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:06:34.121
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:07:59.246
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:19:33.751
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 13:22:25.829
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 14:08:36.253
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 14:08:58.856
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 14:20:13.185
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 14:21:35.756
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 14:22:25.893
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 14:22:53.732
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-25 14:34:44.563
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-25 14:34:45.393
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-25 14:34:46.365
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-25 14:34:52.285
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 14:35:17.642
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-25 15:16:07.950
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-25 15:16:08.202
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-25 15:16:09.197
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-25 15:16:15.006
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 15:42:05.164
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 15:42:24.924
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-25 15:42:35.339
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-25 15:42:35.569
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-25 15:42:36.555
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-25 15:42:42.371
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:23:07.174
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:23:27.603
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:24:47.657
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:26:12.148
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:26:17.528
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:27:06.575
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:34:57.182
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:35:03.556
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:36:31.944
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:43:36.195
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 17:43:46.399
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:03:41.460
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:04:17.299
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:05:10.347
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:06:27.957
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:09:51.461
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:10:29.457
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:52:52.549
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:53:30.912
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:53:39.914
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 18:54:25.377
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 19:06:22.840
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 19:06:30.573
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 19:07:30.604
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 19:07:41.205
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:06:40.641
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:07:44.413
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:08:46.582
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:09:11.572
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:10:00.410
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:10:28.513
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:19:01.952
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-25 20:23:07.603
+!MESSAGE 1 files modified in module ProjectEJB
+!SESSION 2021-12-26 11:59:33.380 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:28:24.242
+!MESSAGE 19 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-26 18:28:27.687
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-26 18:28:45.205
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:29:54.377
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:30:28.398
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:30:41.640
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:34:09.076
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:35:40.373
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:36:42.017
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:37:05.212
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:38:13.336
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:39:12.253
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:39:22.185
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:39:34.288
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:40:24.473
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:41:22.491
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:44:13.523
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:50:11.875
+!MESSAGE 3 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:58:32.100
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 18:58:46.196
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:00:27.632
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:02:04.666
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:02:19.812
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:02:58.687
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:04:28.614
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:04:51.501
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:05:37.874
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:05:46.424
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:05:53.480
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:06:08.200
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:06:19.306
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:10:40.550
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:10:48.128
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:12:47.468
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:12:57.384
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:22:11.529
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:23:40.149
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:30:59.042
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:31:08.995
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:32:23.786
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:36:22.671
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:36:28.390
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:39:10.530
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:39:29.210
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:43:11.981
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:44:25.140
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:46:48.535
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:46:56.021
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:49:19.237
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:49:25.213
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:50:18.201
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:50:24.804
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-26 19:50:37.224
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-26 19:50:37.559
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-26 19:50:38.571
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-26 19:50:40.985
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:51:41.215
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:51:48.361
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:57:10.699
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 19:57:18.604
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-26 20:01:15.887
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-26 20:01:16.128
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:03:17.853
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-26 20:03:38.218
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-26 20:03:41.055
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:03:42.076
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:03:53.850
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:05:24.150
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:05:36.106
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:05:42.271
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:07:20.372
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:15:51.516
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:15:59.664
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:16:21.352
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:16:28.721
+!MESSAGE Module ProjectEJB published without error.
+!SESSION 2021-12-26 20:35:13.349 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:36:54.377
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-26 20:36:59.347
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-26 20:37:11.693
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:37:12.712
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:37:18.632
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:44:59.685
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:45:30.821
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:47:00.627
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 20:48:52.476
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 21:31:11.673
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-26 21:32:38.047
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-26 21:32:38.564
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 21:32:44.990
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-26 21:32:54.324
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-26 21:33:00.294
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-26 21:36:29.254
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-26 21:36:29.714
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-26 21:36:31.097
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-26 21:36:39.627
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 21:47:24.905
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 21:47:46.567
+!MESSAGE 9 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-26 21:53:50.546
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-26 21:53:50.889
+!MESSAGE Server processes have been terminated.
+!SESSION 2021-12-26 22:10:38.528 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:12:46.181
+!MESSAGE 16 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-26 22:12:48.161
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-26 22:12:54.368
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:13:20.209
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:16:57.133
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:19:25.029
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:43:14.609
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:43:58.937
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:47:10.534
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:47:15.576
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:47:38.439
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:47:44.901
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:48:24.027
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:48:30.896
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:48:46.360
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:49:19.111
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:52:26.343
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:53:11.521
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:53:36.357
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 22:53:43.990
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:00:19.196
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:00:26.066
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:00:37.350
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:00:41.985
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:02:03.702
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:02:19.191
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:02:25.946
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:03:23.284
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:03:28.447
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:03:49.151
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:04:07.425
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:05:32.114
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:05:51.242
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:06:10.650
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:06:50.706
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:06:55.260
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:07:01.351
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:07:07.283
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:07:17.430
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:07:31.024
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:07:48.861
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:08:07.861
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:08:13.094
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:08:17.806
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:09:11.699
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:09:18.830
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:09:28.920
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:10:05.908
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:10:38.520
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:11:38.703
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:11:45.175
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:13:18.361
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:15:36.058
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:15:46.444
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:16:08.554
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:20:10.578
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:22:45.486
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:22:58.851
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:23:30.027
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:23:40.654
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:24:53.669
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:26:53.627
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:27:05.518
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:27:19.025
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:30:15.863
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:31:20.130
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:31:28.246
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:34:28.196
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:34:33.893
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:34:47.534
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:34:55.589
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:36:47.838
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:37:03.616
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:37:34.410
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:37:41.576
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:38:33.654
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:38:40.205
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:38:57.735
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:39:04.561
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:39:34.857
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:39:54.639
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:40:02.460
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:40:53.290
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:41:02.857
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:41:12.148
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:41:45.552
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:43:10.631
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:43:40.669
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:49:09.654
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:53:58.019
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:54:21.185
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:55:28.064
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-26 23:59:43.035
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 00:03:35.244
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 00:03:44.488
+!MESSAGE Module ProjectEJB published without error.
+!SESSION 2021-12-27 00:33:26.968 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 00:54:24.060
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-27 00:54:26.059
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-27 00:54:32.985
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 00:55:38.002
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 00:55:48.982
+!MESSAGE Module ProjectEJB published without error.
+!SESSION 2021-12-27 01:12:37.667 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 01:51:03.895
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-27 01:51:09.391
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-27 01:51:11.932
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 01:52:41.749
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 01:57:38.473
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 01:57:44.520
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 01:58:48.903
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:11:01.917
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:11:04.064
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:11:27.978
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:12:25.656
+!MESSAGE 3 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:13:32.957
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:14:36.504
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:14:58.411
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:15:06.316
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:15:22.391
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:23:55.044
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:35:00.199
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:35:07.807
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:40:25.576
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 02:41:04.672
+!MESSAGE Module ProjectEJB published without error.
+!SESSION 2021-12-27 12:56:42.767 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 13:24:39.469
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 13:32:14.700
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-27 13:32:21.808
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-27 13:32:35.004
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 13:41:49.547
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 13:59:30.812
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 13:59:44.711
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:00:37.552
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:01:20.713
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:03:16.158
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:13:37.771
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:13:44.032
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:14:34.653
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:14:59.376
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:15:09.824
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:15:43.956
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:24:55.162
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:25:06.139
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:26:11.441
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:27:02.678
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:27:14.121
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:28:02.475
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:28:44.301
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 14:29:05.368
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:06:33.591
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:09:13.765
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:09:13.804
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:09:13.816
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY unknown 0 0 2021-12-27 17:09:13.823
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2021-12-27 17:09:13.837
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:18:08.371
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:18:31.227
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:19:18.247
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:19:18.275
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:19:18.284
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:23:30.210
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:24:17.015
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:24:25.574
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:24:25.809
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:24:25.827
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:25:22.878
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:25:34.441
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:25:42.825
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:25:42.854
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:25:42.864
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:27:19.676
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:27:26.602
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:27:26.630
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:27:26.639
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:29:00.604
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:29:07.214
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:29:07.243
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:29:07.252
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:31:02.488
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:31:10.525
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:31:10.553
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:31:10.562
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:33:50.504
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:38:26.324
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:53:28.027
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:54:43.725
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:54:48.256
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:57:22.410
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:58:05.092
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:58:22.940
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:58:29.411
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:58:29.441
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:58:29.785
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:59:14.643
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:59:34.945
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:59:34.975
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 17:59:34.986
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:02:03.609
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:03:25.415
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:03:28.054
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:03:34.306
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:04:45.212
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:05:17.493
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:06:41.743
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:07:30.302
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:07:30.346
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:07:30.358
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:08:27.217
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:08:39.450
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:08:45.524
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:08:45.552
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:08:45.564
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:09:10.114
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:15:46.508
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:16:42.401
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:18:20.427
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:18:30.881
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:18:30.910
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:18:30.921
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:20:01.093
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:20:01.124
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:20:01.136
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:20:38.898
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:20:48.824
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:20:48.892
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:20:48.906
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:26:58.376
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:27:32.161
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:27:50.176
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:28:03.741
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:28:12.907
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:28:12.944
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:28:12.956
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:35:19.660
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:35:33.448
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:35:33.476
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:35:33.488
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:40:26.323
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:43:46.052
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:44:07.406
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:44:07.435
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:44:07.447
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:45:39.605
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:45:45.972
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:45:46.017
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:45:46.029
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:46:02.560
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:46:09.430
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:46:09.459
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:46:09.471
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:48:47.020
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:48:52.557
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:48:59.842
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:49:26.843
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:49:26.871
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:49:26.883
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:51:52.428
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:52:01.758
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:52:01.786
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:52:01.797
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:53:51.375
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 18:55:52.023
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:00:46.161
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:01:33.508
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:01:33.538
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:01:33.551
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:02:43.807
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:02:50.055
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:02:50.085
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:02:50.096
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:05:59.529
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:08:46.998
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:11:05.059
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:13:05.480
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:13:58.524
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:14:14.922
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:14:14.956
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:14:14.966
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:15:15.467
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:15:22.317
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:15:22.351
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:15:22.363
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:16:36.229
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:08.331
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:20.921
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:20.973
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:20.985
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:41.115
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:47.586
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:47.615
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:17:47.626
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:18:46.018
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:18:57.763
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:18:57.792
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:18:57.804
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:20:05.690
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:20:12.463
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:20:12.492
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:20:12.504
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:27:00.043
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:32:02.832
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:32:16.342
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:32:28.402
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:32:39.152
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:32:39.181
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:32:39.192
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:33:27.538
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:33:33.868
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:33:34.435
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:33:34.452
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:34:47.600
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:34:53.824
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:34:53.851
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:34:53.863
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:35:25.259
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:35:31.056
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:35:31.126
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:35:31.138
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:45:37.723
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:45:44.239
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:45:44.288
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:45:44.302
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:46:17.671
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:46:28.824
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:46:28.854
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:46:28.865
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:48:35.417
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:48:41.802
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:48:41.891
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:48:41.904
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:49:34.367
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:49:40.415
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:49:40.444
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:49:40.456
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:50:41.836
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:51:46.895
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:51:52.169
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:51:52.199
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:51:52.212
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:57:22.286
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:57:27.615
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:57:27.647
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:57:27.659
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:59:24.673
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:59:30.621
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:59:30.649
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 19:59:30.661
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:07:37.156
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:11:27.586
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:11:34.423
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:11:34.509
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:11:34.521
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:18:32.052
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:18:38.450
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:18:38.482
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 20:18:38.493
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:05:52.959
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:05:57.343
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:07:51.311
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:08:11.003
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:08:16.634
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:08:16.816
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:08:16.899
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:09:37.059
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:14:34.651
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:14:39.082
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:14:39.138
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:14:39.150
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:16:18.845
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:16:24.511
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:16:24.543
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:16:24.555
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:22:15.647
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:22:19.268
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:22:26.271
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:22:26.331
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:22:26.351
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:24:41.960
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:26:07.336
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:26:13.435
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:26:13.475
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:26:13.491
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:33:16.324
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:33:24.306
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:33:24.370
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:33:24.398
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:33:51.961
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:34:28.057
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:34:36.557
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:34:36.650
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:34:36.682
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:35:24.080
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:36:07.137
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:36:18.898
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:36:18.991
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:36:19.018
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:37:29.216
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:38:13.832
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:38:21.873
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:38:21.937
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:38:21.965
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:39:21.596
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:39:37.127
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:39:46.885
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:39:46.965
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:39:46.981
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:12.808
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:23.038
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:23.106
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:23.130
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:48.990
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:55.211
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:55.251
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:40:55.267
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:42:10.252
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:42:10.342
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:42:10.370
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:43:26.881
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:43:35.620
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:43:35.911
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:43:35.963
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:57:29.149
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:57:34.698
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:57:35.011
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:57:35.082
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:57:52.776
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:58:04.460
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:58:04.501
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:58:04.513
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 21:58:31.815
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:02:38.173
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:02:43.041
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:02:43.073
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:02:43.316
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:29:05.770
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:29:15.128
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:29:34.522
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:29:40.899
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:29:58.319
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:30:34.244
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:31:21.947
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:31:35.334
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:32:14.581
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:32:17.198
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:32:46.914
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:32:46.950
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:32:46.963
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:33:05.724
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:33:05.851
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 22:33:05.865
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-27 23:24:09.619
+!MESSAGE 1 files modified in module ProjectWeb
+!SESSION 2021-12-28 01:35:16.048 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:48:45.953
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:48:46.276
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:48:46.321
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-28 01:48:52.739
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-28 01:49:10.426
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-28 01:49:42.745
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-28 01:49:43.636
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-28 01:49:44.647
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-28 01:49:47.070
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:53:57.242
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:54:06.623
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:54:06.652
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:54:06.674
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:57:10.197
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:57:24.415
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:57:30.624
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:57:30.653
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 01:57:30.665
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:01:12.818
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:01:20.750
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:01:20.778
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:01:20.789
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:02:36.160
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:08:51.432
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:08:55.620
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:08:55.794
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:08:55.807
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:09:19.369
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:09:25.800
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:09:25.829
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:09:25.840
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:20:31.388
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:20:40.690
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:20:40.717
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:20:40.727
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:21:19.154
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:25:25.773
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:28:55.384
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:29:07.326
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:32:35.609
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:33:22.528
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:39:51.225
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:39:57.992
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:39:58.019
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:39:58.030
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:49:18.433
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:49:53.587
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:52:48.226
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:52:54.204
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:52:54.231
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:52:54.242
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:55:22.203
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:55:35.529
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:55:35.559
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:55:35.570
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:56:19.355
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:56:24.552
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:56:24.583
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:56:24.595
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:58:22.466
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:58:29.485
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:58:29.512
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 02:58:29.523
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:01:54.620
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:02:00.511
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:02:00.540
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:02:00.552
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:04:32.117
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:04:39.476
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:04:39.503
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:04:39.514
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:05:11.024
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:05:17.108
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:05:17.138
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:05:17.150
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:06:45.718
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:07:44.171
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 03:07:56.520
+!MESSAGE 1 files modified in module ProjectWeb
+!SESSION 2021-12-28 11:16:55.166 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:25:07.948
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:25:07.966
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:25:08.015
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-28 12:25:10.922
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-28 12:25:24.966
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:26:20.357
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:26:20.583
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:26:20.597
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-28 12:28:58.379
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-28 12:28:58.676
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-28 12:28:59.675
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-28 12:29:02.088
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:31:04.204
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:31:13.254
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:31:13.634
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:31:13.649
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-28 12:43:10.736
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-28 12:43:10.968
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-28 12:44:41.127
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-28 12:44:46.937
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:58:20.166
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:58:20.194
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:58:20.206
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:59:26.978
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:59:27.007
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 12:59:27.019
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-28 13:02:15.060
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-28 13:02:15.282
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-28 13:03:05.848
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-28 13:03:11.675
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:03:56.380
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:03:56.407
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:03:56.419
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:04:31.403
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:04:31.431
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:04:31.441
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:05:38.803
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:05:56.124
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:08:16.219
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:08:16.247
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:08:16.259
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:10:18.045
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:10:18.076
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:10:18.088
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:22:23.562
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:22:30.868
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:22:30.898
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:22:30.910
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:26:00.068
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:26:00.098
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:26:00.110
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:27:01.414
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:27:01.421
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:27:29.230
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:27:40.498
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:27:57.905
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:28:16.705
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:28:49.883
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:28:49.913
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:28:49.925
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:30:23.680
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:30:23.710
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 13:30:23.739
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:33:50.990
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:33:56.835
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:33:56.862
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:33:56.874
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:37:53.442
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:37:53.470
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:37:53.482
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:37:58.012
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:38:06.536
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:38:06.563
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 14:38:06.575
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:01:23.162
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:14:36.580
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:14:45.041
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:14:45.068
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:14:45.080
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:19:29.179
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:19:54.485
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:19:59.771
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:19:59.802
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:19:59.814
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:24:52.992
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:25:01.945
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:25:01.973
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:25:01.985
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:31:00.378
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:32:14.345
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:32:39.221
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:32:39.250
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:32:39.263
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:34:14.548
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:35:44.592
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:35:50.092
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:35:50.118
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:35:50.131
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:37:29.968
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:38:03.340
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:38:09.570
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:38:09.596
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:38:09.607
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:46:52.084
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:46:56.157
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:47:05.549
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:47:26.234
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:47:32.412
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:47:32.440
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:47:32.452
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:48:58.519
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:49:17.900
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:49:23.592
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:49:23.620
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:49:23.631
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:52:03.521
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:52:32.679
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:52:38.405
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:52:38.432
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:52:38.443
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:53:01.778
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:55:35.873
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:58:06.555
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 15:59:54.076
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:01:27.193
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:02:11.517
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:02:24.238
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:02:24.265
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:02:24.276
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:04:48.252
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:04:54.268
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:04:54.295
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:04:54.307
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:12:12.226
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:15:00.359
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:17:54.466
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:20:35.732
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:21:05.924
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:21:05.950
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:21:05.961
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:24:58.789
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:25:33.625
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:25:33.652
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:25:33.662
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:27:05.393
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:27:12.457
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:27:12.483
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:27:12.495
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:29:18.985
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:30:26.782
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:30:26.829
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:30:26.843
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:32:06.896
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:34:26.280
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:34:40.234
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:35:55.120
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:40:22.549
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:40:33.596
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 16:55:33.542
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:07:47.477
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:09:30.984
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:10:10.007
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:10:38.430
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:11:28.570
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:11:50.391
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:11:50.419
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:11:50.430
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:14:10.046
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:16:11.173
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:16:17.121
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:16:17.148
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:16:17.159
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:19:48.518
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:20:31.887
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:21:01.467
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:21:01.493
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:21:01.505
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:21:36.675
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:21:36.701
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:21:36.713
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:26:17.173
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:26:27.025
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:26:27.051
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:26:27.063
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:29:46.749
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:29:53.073
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:29:53.107
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:29:53.119
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:35:35.206
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:35:45.964
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:35:52.500
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:35:52.533
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:35:52.545
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:39:02.957
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:39:18.351
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:39:23.888
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:39:23.914
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:39:23.925
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:46:50.405
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:46:58.385
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:46:58.413
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:46:58.425
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:53:55.863
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:54:21.722
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:54:36.238
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:55:05.675
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:56:59.844
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:58:35.573
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:58:55.546
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:58:55.574
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 17:58:55.585
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:06:39.756
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:06:48.065
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:06:48.091
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:06:48.103
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:22:53.905
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:23:03.367
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:23:03.393
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:23:03.404
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:23:59.182
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:24:08.316
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:24:08.420
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:24:08.432
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:24:57.088
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:25:17.320
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:25:22.368
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:25:22.398
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:25:22.411
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:26:21.864
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:26:32.336
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:26:32.364
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:26:32.376
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:27:41.081
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:27:46.383
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:27:46.420
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:27:46.432
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:22.937
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:28.590
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:35.779
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:35.805
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:35.816
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:58.125
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:58.152
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:29:58.164
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:47:37.788
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:48:31.020
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:49:06.827
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:49:27.627
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:55:46.420
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:56:09.222
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:56:42.980
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:57:13.467
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:57:39.371
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 18:58:16.702
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:09:23.054
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:11:16.864
+!MESSAGE 8 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:11:24.283
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:11:45.042
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:12:54.995
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:14:18.626
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:14:27.224
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:16:11.188
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:16:46.056
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:16:46.203
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:16:46.253
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:24:48.026
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:25:32.878
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:25:48.695
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:25:52.451
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:27:50.935
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:27:53.172
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:30:43.695
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:31:27.781
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:36:14.271
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-28 20:39:06.719
+!MESSAGE 1 files modified in module ProjectWeb
+!SESSION 2021-12-29 01:26:43.533 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:34:04.019
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:34:04.145
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:34:04.152
+!MESSAGE 2 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-29 01:34:06.730
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-29 01:34:24.298
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:35:22.971
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:35:23.019
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:35:23.307
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:36:30.384
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:45:17.944
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:51:10.525
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:51:53.597
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:51:53.626
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:51:53.653
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:52:58.232
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:53:38.624
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:53:42.398
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:53:42.424
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:53:42.451
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:55:39.477
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:56:30.332
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:56:39.228
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:56:39.378
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:56:39.407
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 01:57:47.351
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:07:01.676
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:07:13.268
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:07:13.295
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:07:13.320
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:12:22.073
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:21:40.955
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:21:44.071
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:22:09.062
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:22:22.058
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:22:22.094
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:22:22.122
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:23:34.357
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:26:55.740
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:32:48.927
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:33:46.836
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:37:33.794
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:39:52.757
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:39:57.641
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:39:57.670
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:39:57.743
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:40:05.284
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:41:04.447
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:41:23.712
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:41:23.740
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:41:23.775
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:42:57.814
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:43:03.169
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:43:03.195
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:43:03.222
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:43:30.225
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:43:30.253
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:43:30.286
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:45:08.212
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:45:29.436
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:45:56.432
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:46:03.278
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:46:03.304
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:46:03.337
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:47:02.414
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:48:17.324
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:48:39.277
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:48:39.308
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:48:39.430
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:49:21.224
+!MESSAGE 1 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:49:26.789
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:49:26.829
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:49:26.856
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:50:07.353
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:50:13.977
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:50:14.017
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:50:14.042
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:52:15.823
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:52:16.014
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:52:16.114
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:53:04.275
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:53:09.441
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:53:09.468
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:53:09.495
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:53:58.007
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:54:08.454
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:54:08.482
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:54:08.622
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:54:26.727
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:55:03.645
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:55:11.673
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:55:11.699
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:55:11.725
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 02:56:25.216
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 03:04:37.867
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 03:04:39.880
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 03:04:47.960
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 03:04:47.988
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 03:04:48.016
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 03:05:04.280
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2021-12-29 03:06:04.099
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2021-12-29 03:06:04.900
+!MESSAGE Server processes have been terminated.
+!SESSION 2021-12-29 12:38:17.971 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:24:13.728
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:24:13.754
+!MESSAGE 2 files modified in module ProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:24:13.766
+!MESSAGE 4 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-29 14:24:16.355
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-29 14:24:33.587
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:25:12.388
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:25:12.426
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:25:12.454
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:25:29.954
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:25:29.980
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:25:30.007
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:31:49.679
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:31:55.775
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:31:55.803
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:31:55.832
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:33:34.372
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:33:39.946
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:33:39.985
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:33:40.093
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:35:27.551
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:35:34.776
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:35:34.804
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:35:34.832
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:36:37.670
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:36:56.043
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:37:01.521
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:37:01.550
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:37:01.588
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:37:35.101
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:38:29.878
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:38:37.028
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:38:37.056
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:38:37.083
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:39:22.002
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:39:27.160
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:39:27.186
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:39:27.215
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:40:47.593
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:41:02.309
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:41:02.336
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:41:02.364
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:41:20.890
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:41:26.752
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:41:26.866
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:41:26.896
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:42:21.890
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:42:32.224
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:00.995
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:06.088
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:06.118
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:06.147
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:44.427
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:52.522
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:52.547
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:43:52.573
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:45:31.114
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:45:47.442
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:46:33.660
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:48:02.529
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:48:06.575
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:48:50.877
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:48:59.518
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:48:59.557
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:48:59.584
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:50:37.113
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:51:35.737
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:52:42.564
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:52:59.228
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:53:10.942
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:54:26.965
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:55:09.173
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:55:44.532
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:56:04.359
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:56:04.487
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:56:04.515
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:56:47.281
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:58:56.193
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:59:13.969
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 14:59:52.211
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:00:57.759
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:01:00.095
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:01:19.252
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:02:03.990
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:02:04.080
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:02:04.134
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:08:04.470
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:08:29.756
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:15:34.122
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:15:46.360
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:15:46.389
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:15:46.417
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:16:27.396
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:16:38.307
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:17:02.327
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:17:07.618
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:17:07.647
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:17:07.680
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:17:57.051
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:18:57.339
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:19:33.852
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:19:33.880
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:19:33.908
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:41:37.264
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:41:57.081
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:42:13.646
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:42:33.719
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:42:44.043
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:42:50.633
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:42:59.497
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:43:06.007
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:43:29.971
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:43:39.595
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:43:39.704
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:43:39.735
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:45:34.334
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:46:48.620
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:47:01.349
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:47:01.375
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:47:01.403
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:54:30.922
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:55:01.912
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:56:12.769
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:56:50.569
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:57:18.350
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 15:59:26.360
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:01:48.222
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:04:47.225
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:06:09.785
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:06:22.645
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:07:13.500
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:07:34.074
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:15:48.149
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:16:18.119
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:16:18.146
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:16:18.176
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:17:14.954
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:17:42.726
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:18:04.176
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:18:04.214
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:18:04.245
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:19:12.086
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:21:38.374
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:22:34.154
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:22:42.521
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:22:42.548
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:22:42.577
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:24:47.875
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:25:03.928
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:25:03.954
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:25:03.983
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:29:38.918
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:29:44.614
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:29:44.641
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:29:44.752
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:30:46.421
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:35:23.868
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:35:30.884
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:35:30.913
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:35:31.067
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 16:36:31.955
+!MESSAGE 1 files modified in module ProjectWeb
+!SESSION 2021-12-29 18:34:36.854 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:35:19.222
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:35:19.258
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:35:19.299
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2021-12-29 18:35:21.902
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2021-12-29 18:35:28.696
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:41:01.943
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:41:12.426
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:41:12.455
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:41:12.692
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:42:38.689
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:42:58.450
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:43:02.940
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:43:02.971
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:43:03.004
+!MESSAGE Module ProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:44:23.677
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:45:29.264
+!MESSAGE 1 files modified in module ProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:45:34.658
+!MESSAGE Module ProjectEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:45:34.698
+!MESSAGE Module ProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2021-12-29 18:45:34.727
+!MESSAGE Module ProjectWeb published without error.

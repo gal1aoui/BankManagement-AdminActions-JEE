@@ -1,0 +1,30 @@
+package users.session;
+
+import java.util.List;
+
+import javax.ejb.Local;
+
+import users.Client;
+import users.Employee;
+import users.Group;
+
+@Local
+public interface GestionProjetLocal {
+	//Les méthodes d'ajout
+		public void ajouterClient(Client c);
+		public void ajouterEmploye(Employee e);
+		public void ajouterGroupe(Group g);
+		
+		//Les méthodes de consultation
+		public List<Client> consultationClients();
+		public Client consultationClient(long id);
+		
+		public List<Employee> consultationEmployes();
+		public Employee consultationEmploye(long id);
+		
+		public List<Group> consultationGroupes();
+		public Group consultationGroupe(long id);
+		
+		//méthode de recherche de client par nom
+		public List<Client> chercherClient(String name);
+}

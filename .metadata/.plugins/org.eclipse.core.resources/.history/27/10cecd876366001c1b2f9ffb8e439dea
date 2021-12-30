@@ -1,0 +1,31 @@
+package users.session;
+
+import java.util.List;
+
+import javax.ejb.Remote;
+
+import users.actors.Client;
+import users.actors.Employee;
+import users.Group;
+
+@Remote
+public interface GestionProjetRemote {
+	//Les méthodes d'ajout
+	public void ajouterClient(Client c);
+	public void ajouterEmploye(Employee e);
+	public void ajouterGroupe(Group g);
+	public void ajouterEmplAGroup(long emp_id, long grp_id);
+	
+	//Les méthodes de consultation
+	public List<Client> consultationClients();
+	public Client consultationClient(long id);
+	
+	public List<Employee> consultationEmployes();
+	public Employee consultationEmploye(long id);
+	
+	public List<Group> consultationGroupes();
+	public Group consultationGroupe(long id);
+	
+	//méthode de recherche de client par nom
+	public List<Client> chercherClient(String name);
+}

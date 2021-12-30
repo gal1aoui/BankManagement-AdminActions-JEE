@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ProjectEJB/ejbModule/users/actors/User.java&apos; to &apos;Employee.java&apos;" description="Rename resource &apos;User.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ejbModule/users/actors/User.java" name="Employee.java" stamp="1640552051416" updateReferences="true"/>
+</session>

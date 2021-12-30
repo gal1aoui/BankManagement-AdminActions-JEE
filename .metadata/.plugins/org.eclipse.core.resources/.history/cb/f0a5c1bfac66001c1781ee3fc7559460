@@ -1,0 +1,5 @@
+package users.actors;
+
+public class Client {
+
+}

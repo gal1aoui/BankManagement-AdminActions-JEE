@@ -1,0 +1,34 @@
+package compte.comptes;
+
+import java.util.Date;
+
+import javax.persistence.DiscriminatorValue;
+import javax.persistence.Entity;
+
+import users.Client;
+
+@Entity
+@DiscriminatorValue("C")
+public class CompteCourant extends Compte {
+	
+	private float decouvert;
+
+	public float getDecouvert() {
+		return decouvert;
+	}
+
+	public void setDecouvert(float decouvert) {
+		this.decouvert = decouvert;
+	}
+
+	public CompteCourant() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public CompteCourant(float solde, Date createdAt, Client client, float decouvert) {
+		super(solde, createdAt, client);
+		this.decouvert = decouvert;
+	}
+	
+}

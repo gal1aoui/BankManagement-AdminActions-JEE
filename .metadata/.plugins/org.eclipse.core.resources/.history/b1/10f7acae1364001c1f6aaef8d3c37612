@@ -1,0 +1,43 @@
+package users;
+
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="EMPLOYÉS")
+public class employee implements Serializable {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="ID_EMPLOYE")
+	private long id;
+	@Column(name="SOLDE_EMPLOYE")
+	private float solde;
+	
+	public long getId() {
+		return id;
+	}
+	public void setId(long id) {
+		this.id = id;
+	}
+	public float getSolde() {
+		return solde;
+	}
+	public void setSolde(float solde) {
+		this.solde = solde;
+	}
+	public employee() {
+		super();
+		this.solde = 0.0f;
+	}
+	public employee(float solde) {
+		super();
+		this.solde = solde;
+	}
+	
+}

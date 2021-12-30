@@ -1,0 +1,12 @@
+package compte;
+
+import java.io.Serializable;
+import java.util.Date;
+
+
+public abstract class Compte implements Serializable {
+
+	private long id;
+	private float solde;
+	private Date createdAt;
+}

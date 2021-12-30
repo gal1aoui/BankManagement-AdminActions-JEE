@@ -1,0 +1,54 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="t" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.min.css">
+</head>
+<style>
+body,html{
+	height:100%;
+}
+</style>
+<body>
+	<div style="position:absolute; top:5%; left:88%; right:0;">
+<a href="consultation">    
+    <button class="btn btn-outline-primary d-flex">
+        <span style="margin-top: 3px" class="mr-1 spinner-border primary spinner-border-sm" role="status"></span>
+        Retour
+    </button>
+</a>
+</div>
+<div class="container h-100">
+ <div class="row justify-content-center align-items-center h-100">
+ 	<t:if test="${!empty Clients }">
+ 	<t:forEach items="${Clients }" var="c">
+ 		<div class="col-xl-3 col-sm-6 col-12">
+        <div class="card">
+          <div class="card-content">
+            <div class="card-body">
+              <div class="media d-flex">
+                <div class="media-body text-left">
+                  <h3 class="success">${c.name }</h3>
+                  <span>${c.email }</span>
+                </div>
+                <div class="align-self-center">
+                  <i class="icon-user success font-large-2 float-right"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+ 	</t:forEach>
+ 	</t:if>
+ 	<t:if test="${empty Clients}">
+ 		No result
+ 	</t:if>
+ </div>
+</div>
+</body>
+</html>

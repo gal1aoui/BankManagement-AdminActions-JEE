@@ -1,0 +1,45 @@
+package web;
+
+import java.io.IOException;
+import java.util.List;
+
+import javax.ejb.EJB;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import users.Group;
+import users.actors.Client;
+import users.actors.Employee;
+import users.session.GestionProjetLocal;
+
+@WebServlet(name="Home", urlPatterns={"/home"})
+public class Home extends HttpServlet {
+
+	@EJB
+	private GestionProjetLocal gpl;
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse res)
+			throws ServletException, IOException {
+		List<Client> clts = gpl.consultationClients();
+		req.setAttribute("Clients", clts);
+		
+		List<Employee> emps = gpl.consultationEmployes();
+		req.setAttribute("Employes", emps);
+		
+		List<Group> grps = gpl.consultationGroupes();
+		req.setAttribute("Groupes", grps);
+		
+		
+		
+		req.getRequestDispatcher("Home.jsp").forward(req, res);
+	}
+	
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse res)
+			throws ServletException, IOException {
+	}
+}

@@ -1,0 +1,27 @@
+package users.actors;
+
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Inheritance;
+import javax.persistence.InheritanceType;
+
+@Entity
+@Inheritance(strategy=InheritanceType.TABLE_PER_CLASS)
+public abstract class User implements Serializable{
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Columnlumn(name="ID_UTILISATEUR")
+	private long id;
+	@Column(name="EMAIL_UTILISATEUR")
+	private String email;
+	@Column(name="PASSWORD_UTILISATEUR")
+	private String password;
+	@Column(name="NOM_CLIENT")
+	private String name;
+	
+}

@@ -1,0 +1,110 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core"  prefix="t" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap-extended.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/fonts/simple-line-icons/style.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/colors.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap" rel="stylesheet">
+</head>
+<body>
+
+<h1 class="mt-3 ml-3 mb-3">	Liste des Clients </h1>
+	
+	<div class="container">
+	<div class="row">
+	<div class="col-6">hello</div>
+	<div class="col-6">hi</div>
+	
+	</div>
+	</div>
+	<section class="container-fluid row">
+	  <t:forEach items="${Clients}" var="c">
+	  
+	  
+	  <div class="col-xl-3 col-sm-6 col-12">
+        <div class="card">
+          <div class="card-content">
+            <div class="card-body">
+              <div class="media d-flex">
+                <div class="media-body text-left">
+                  <h3 class="success">${c.email }</h3>
+                  <span>${c.name }</span>
+                </div>
+                <div class="align-self-center">
+                  <i class="icon-user success font-large-2 float-right"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      </t:forEach>
+	</section>
+	
+	<h1 class="mt-3 ml-3 mb-3">	Liste des Employes </h1>
+
+	<section class="container-fluid row">
+	  <t:forEach items="${Employes}" var="c">
+	  
+	  
+	  <div class="col-xl-3 col-sm-6 col-12">
+        <div class="card">
+          <div class="card-content">
+            <div class="card-body">
+              <div class="media d-flex">
+                <div class="media-body text-left">
+                  <h3 class="success">${c.email }</h3>
+                  <span> ${c.solde} $</span>
+                </div>
+                <div class="align-self-center">
+                  <i class="icon-user-following success font-large-2 float-right"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      </t:forEach>
+	</section>
+	
+	<h1 class="mt-3 ml-3 mb-3">	Liste des Groupes </h1>
+
+	<section class="container-fluid row">
+	  <t:forEach items="${Groupes}" var="c">
+	  
+	  
+	  <div class="col-xl-3 col-sm-6 col-12">
+        <div class="card">
+          <div class="card-content">
+            <div class="card-body">
+              <div class="media d-flex">
+                <div class="media-body text-left">
+                  <h3 class="success">${c.name }</h3>
+                  <% int s =0; %>
+                  <span> <t:forEach items="${c.groupmembres}" var="d">${d.employee.email}<br> <%s++; %> </t:forEach> 
+                 </span>
+                </div>
+                <div class="align-self-center">
+                  <i class="icon-users success font-large-2 float-right"></i>
+              
+                </div>
+                <p class="success">(<%=s %>)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      </t:forEach>
+	</section>
+</body>
+</html>
