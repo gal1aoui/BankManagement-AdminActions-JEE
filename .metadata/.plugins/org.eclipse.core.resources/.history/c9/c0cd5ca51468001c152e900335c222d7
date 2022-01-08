@@ -1,8 +1,0 @@
-package web;
-
-import javax.servlet.annotation.WebServlet;
-
-@WebServlet(name="Group", urlPatterns={"/groupe"})
-public class Groupe {
-
-}

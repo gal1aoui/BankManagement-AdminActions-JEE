@@ -1,14 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-    <%@taglib uri="http://java.sun.com/jsp/jstl/core"  prefix="t" %>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Consultation d'un Employé</title>
-<%@include file="Scripts.jsp" %>
-</head>
-<body>
+<%@include file="Squelette/Base.jsp"%>
 <div style="position:absolute; top:5%; left:88%; right:0;">
 <a href="consultation">    
     <button class="btn btn-outline-primary d-flex">
@@ -27,7 +17,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${Employe.solde }$</h3>
+                  <h4 class="success">${Employe.solde }$</h4>
                   <span>Nom de cet Employé</span>
                 </div>
                 <div class="align-self-center">
@@ -45,7 +35,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${Employe.email }</h3>
+                  <h4 class="success">${Employe.email }</h4>
                   <span>email de cet Employé</span>
                 </div>
                 <div class="align-self-center">
@@ -63,7 +53,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${Employe.password }</h3>
+                  <h4 class="success">${Employe.password }</h4>
                   <span>Mot de passe de cet Employé</span>
                 </div>
                 <div class="align-self-center">
@@ -74,7 +64,26 @@
           </div>
         </div>
       </div>
+<t:if test="${Employe.upperHierarchy != null}">      
+      <div class="col-xl-3 col-sm-6 col-12">
+        <div class="card">
+          <div class="card-content">
+            <div class="card-body">
+              <div class="media d-flex">
+                <div class="media-body text-left">
+                  <h4 class="success">${Employe.upperHierarchy.email }</h4>
+                  <span>l'email de supérieur hiérarchique de cet Employé</span>
+                </div>
+                <div class="align-self-center">
+                  <i class="icon-eye success font-large-2 float-right"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 	</section>
+</t:if>
 <h1 class="mt-3 ml-3 mb-3">	Les Comptes créer par cet Employé </h1>
 
 	<section class="container-fluid row ml-2">
@@ -85,7 +94,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.client.name}</h3>
+                  <h4 class="success">${c.client.name}</h4>
                   <span>Le solde attribuer ${c.solde}$</span>
                 </div>
                 <div class="align-self-center">
@@ -98,6 +107,32 @@
       </div>
 </t:forEach>
 </section>
-
-</body>
-</html>
+<h1 class="mt-3 ml-3 mb-3">Ajouter ou Modifier le supérieur hiérarchique de cet Employé</h1>
+	
+	<section class="container-fluid row ml-2">
+	  <div class="col-xl-3 col-sm-6 col-12">
+        <div class="card">
+          <div class="card-content">
+            <div class="card-body">
+              <div class="media d-flex">
+              <form class="d-flex" method="post" action="employe?id=${Employe.id}">
+                <div class="media-body text-left mt-1">
+                  <select class="form-select border border-secondary" name="sup">
+        				<t:forEach items="${Employes}" var="c">
+        					<t:if test="${ c.id != Employe.id }">
+        						<option value="${c.id}"> ${c.id} -- ${c.email} -- ${c.solde} $ </option>
+        					</t:if>
+        				</t:forEach>
+      			  </select>
+                </div>
+                <div class="align-self-center">
+                  <button class="icon-user-follow success font-large-2 float-right btn" name="EmployeSup"></button>
+                </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</section>
+<%@include file="Squelette/Footer.jsp"%>

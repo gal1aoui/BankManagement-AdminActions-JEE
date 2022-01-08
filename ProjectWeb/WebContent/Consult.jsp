@@ -1,14 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<%@taglib uri="http://java.sun.com/jsp/jstl/core"  prefix="t" %>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Consultation D'application</title>
-<%@include file="Scripts.jsp" %>
-</head>
-<body>
+<%@include file="Squelette/Base.jsp"%>
 <div style="position:absolute; top:5%; left:88%; right:0;">
 <a href="creation">    
     <button class="btn btn-outline-danger d-flex">
@@ -29,7 +19,6 @@
         	Chercher
         </button>
         </div>
-        
      </form>
     </div>
     
@@ -49,13 +38,18 @@
 	  <t:forEach items="${Clients}" var="c">
 	  	  
 	  <div class="col-xl-3 col-sm-6 col-12">
+	  <form method="post" action="consultation?id=${c.id}">
+        <button class="btn btn-danger" name="Clientremove">
+            <span class="mr-1 spinner-grow light spinner-grow-sm" role="status"></span>
+            Supprimer</button>
+      </form>
       <a href="client?id=${c.id}">
         <div class="card">
           <div class="card-content">
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.email }</h3>
+                  <h4 class="success">${c.email }</h4>
                   <span>${c.name }</span>
                 </div>
                 <div class="align-self-center">
@@ -78,13 +72,18 @@
 	  
 	  
 	  <div class="col-xl-3 col-sm-6 col-12">
+	  <form method="post" action="consultation?id=${c.id}">
+        <button class="btn btn-danger" name="Employeremove">
+            <span class="mr-1 spinner-grow light spinner-grow-sm" role="status"></span>
+            Supprimer</button>
+      </form>
       <a href="employe?id=${c.id}">
         <div class="card">
           <div class="card-content">
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.email }</h3>
+                  <h4 class="success">${c.email }</h4>
                   <span> ${c.solde} $</span>
                 </div>
                 <div class="align-self-center">
@@ -107,13 +106,18 @@
 	  
 	  
 	  <div class="col-xl-3 col-sm-6 col-12">
+	  <form method="post" action="consultation?id=${c.id}">
+        <button class="btn btn-danger" name="Groupremove">
+            <span class="mr-1 spinner-grow light spinner-grow-sm" role="status"></span>
+            Supprimer</button>
+      </form>
 	<a href="groupe?id=${c.id}">
         <div class="card">
           <div class="card-content">
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.name }</h3>
+                  <h4 class="success">${c.name }</h4>
                   <% int s =0; %>
                   <span> <t:forEach items="${c.groupmembres}" var="d">${d.employee.email}<br> <%s++; %> </t:forEach> 
                  </span>
@@ -132,5 +136,4 @@
       
       </t:forEach>
 	</section>
-</body>
-</html>
+  <%@include file="Squelette/Footer.jsp"%>

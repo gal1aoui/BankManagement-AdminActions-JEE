@@ -1,5 +1,3 @@
-
-
 import java.util.Date;
 import java.util.List;
 import java.util.Properties;
@@ -8,14 +6,14 @@ import javax.naming.Context;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 
-import compte.comptes.Compte;
-import compte.comptes.CompteCourant;
-import compte.comptes.CompteEpargne;
+import accounts.comptes.Compte;
+import accounts.comptes.CompteCourant;
+import accounts.comptes.CompteEpargne;
 import users.actors.Client;
-import users.Group;
+import users.groups.Group;
 import users.actors.Employee;
-import users.groupmembers.GroupMembers;
-import users.session.GestionProjetRemote;
+import users.groups.GroupMembers;
+import session.GestionProjetRemote;
 
 
 public class Test {
@@ -28,7 +26,7 @@ public class Test {
 			prop.put(Context.URL_PKG_PREFIXES, "org.jboss.ejb.client.naming");
 			Context ctx = new InitialContext(prop);
 			//op peut effectuer ces actions avec un seul interface ejb.Remote pour les test machine et web sans l'interface locale ejb.Local
-			GestionProjetRemote stub = (GestionProjetRemote)ctx.lookup("ejb:ProjectEAR/ProjectEJB/PRJCT!users.session.GestionProjetRemote");
+			GestionProjetRemote stub = (GestionProjetRemote)ctx.lookup("ejb:ProjectEAR/ProjectEJB/PRJCT!session.GestionProjetRemote");
 			
 			
 			Client c = new Client("client@demo.com","12345678","Ahmed");
@@ -76,11 +74,11 @@ public class Test {
 			stub.ajouterCompte(cpe,c2.getId(),e.getId());
 			*/ 
 			
-			
+			/*
 			//(4) ajout d'un employe a un group
 			GroupMembers gm = new GroupMembers();
 			stub.ajouterEmplAGroup(11,1 , gm);
-			
+			*/
 			
 			/*
 			//(5) Consultation clients
@@ -118,6 +116,7 @@ public class Test {
 			stub.supprimerGroupe(g.getId());
 			stub.supprimerCompte(cpc.getId());
 			*/
+			//stub.ajouterSuperieurHierarchique(4, 3);
 		} catch (NamingException e){
 			e.printStackTrace();
 		}

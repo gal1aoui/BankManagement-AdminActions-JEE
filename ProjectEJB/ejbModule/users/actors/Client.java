@@ -8,7 +8,7 @@ import javax.persistence.FetchType;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import compte.comptes.Compte;
+import accounts.comptes.Compte;
 
 @Entity
 @Table(name="CLIENTS")

@@ -10,10 +10,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import compte.comptes.Compte;
-
 import users.actors.Client;
-import users.session.GestionProjetRemote;
+import session.GestionProjetRemote;
 
 @WebServlet(name="ChercherClient", urlPatterns={"/chercheclient"})
 public class ChercherClient extends HttpServlet {
@@ -22,13 +20,13 @@ public class ChercherClient extends HttpServlet {
 	private GestionProjetRemote gpl;
 	
 	@Override
-	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
+	protected void doGet(HttpServletRequest req, HttpServletResponse res)
 			throws ServletException, IOException {
 		String name = req.getParameter("nom");
 		List<Client> c = gpl.chercherClient(name);
 		req.setAttribute("Clients", c);
 		
-		req.getRequestDispatcher("ChercherClient.jsp").forward(req,resp);
+		req.getRequestDispatcher("ChercherClient.jsp").forward(req,res);
 	}
 	
 }

@@ -11,14 +11,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import compte.comptes.Compte;
-import compte.comptes.CompteCourant;
-import compte.comptes.CompteEpargne;
-import users.Group;
+import accounts.comptes.CompteCourant;
+import accounts.comptes.CompteEpargne;
+import users.groups.Group;
 import users.actors.Client;
 import users.actors.Employee;
-import users.groupmembers.GroupMembers;
-import users.session.GestionProjetRemote;
+import users.groups.GroupMembers;
+import session.GestionProjetRemote;
 
 @WebServlet(name="Create", urlPatterns={"/creation"})
 public class Create extends HttpServlet {
@@ -45,29 +44,6 @@ public class Create extends HttpServlet {
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse res)
 			throws ServletException, IOException {
-		
-		String nom = req.getParameter("nom");
-		String email = req.getParameter("email");
-		String password = req.getParameter("password");		
-		if(email != null && email != null && password != null)
-		{
-		gpl.ajouterClient(new Client(email, password, nom));
-		}
-		
-		String esold = req.getParameter("esolde");
-		String eemail = req.getParameter("eemail");
-		String epassword = req.getParameter("epass");
-		if(esold != null && eemail != null && epassword != null)
-		{
-			float esolde = Float.parseFloat(esold);
-			gpl.ajouterEmploye(new Employee(eemail, epassword, esolde));
-		}
-		
-		String gname = req.getParameter("gname");
-		if(gname != null)
-		{
-			gpl.ajouterGroupe(new Group(gname));
-		}
 		
 		String typeCompte = req.getParameter("ctype");
 		String cclient = req.getParameter("cclient");
@@ -99,7 +75,6 @@ public class Create extends HttpServlet {
 			gpl.ajouterEmplAGroup(gemp_id, ggrp_id, new GroupMembers());
 		}
 			
-		
 		res.sendRedirect("consultation");
 	}
 }

@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Creation</title>
 <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.min.css">
 </head>
 <style>
@@ -13,19 +13,9 @@ body,html{
 	height:100%;
 }
 </style>
-<script>
-function ses(){
-op = document.getElementById('option').value;
-if(op == "Courant"){
-	document.getElementById('td').style.display = "block";
-	document.getElementById('ti').style.display = "none";
-}else{
-	document.getElementById('td').style.display = "none";
-	document.getElementById('ti').style.display = "block";
-}
-}
-</script>
+<script src="Squelette/Script.js"></script>
 <body>
+
 <div style="position:absolute; top:5%; left:88%; right:0;">
 <a href="consultation">    
     <button class="btn btn-outline-primary d-flex">
@@ -59,7 +49,7 @@ if(op == "Courant"){
 			</ul>
 	<div id="myTabContent" class="tab-content mt-2">
   	<div class="tab-pane fade show active" id="client">
-   			<form action="creation" method="post">
+   			<form action="client" method="post">
                 <div class="form-group mb-3">
                     <input class="form-control form-control-lg" placeholder="Le Nom de client" type="text" name="nom" required>
                 </div>
@@ -75,7 +65,7 @@ if(op == "Courant"){
             </form>
   	</div>
   	<div class="tab-pane fade" id="employe">
-    <form action="creation" method="post">
+    <form action="employe" method="post">
                 <div class="form-group mb-3">
                     <input class="form-control form-control-lg" placeholder="L'email d'employe" type="email" name="eemail" required>
                 </div>
@@ -91,7 +81,7 @@ if(op == "Courant"){
             </form>
   	</div>
   	<div class="tab-pane fade" id="groupe">
-    <form action="creation" method="post">
+    <form action="groupe" method="post">
                 <div class="form-group mb-3">
                     <input class="form-control form-control-lg" placeholder="Le Nom de Groupe" type="text" name="gname" required>
                 </div>

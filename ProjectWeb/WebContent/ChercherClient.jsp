@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Clients chercher</title>
 <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/fonts/simple-line-icons/style.min.css">
 </head>
@@ -34,7 +34,7 @@ body,html{
             <div class="card-body">
               <div class="media d-flex justify-content-between">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.name }</h3>
+                  <h4 class="success">${c.name }</h4>
                   <span>${c.email }</span>
                 </div>
                 <div class="align-self-center">

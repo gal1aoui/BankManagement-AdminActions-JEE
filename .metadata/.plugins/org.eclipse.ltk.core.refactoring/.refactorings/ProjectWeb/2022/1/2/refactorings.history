@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ProjectWeb/src/web/Clientv.java&apos; to &apos;Clients.java&apos;" description="Rename resource &apos;Clientv.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/web/Clientv.java" name="Clients.java" stamp="1641662649120" updateReferences="true"/>
+</session>

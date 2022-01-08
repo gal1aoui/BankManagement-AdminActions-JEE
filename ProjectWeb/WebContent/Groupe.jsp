@@ -1,14 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-        <%@taglib uri="http://java.sun.com/jsp/jstl/core"  prefix="t" %>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Consultation d'un Groupe</title>
-<%@include file="Scripts.jsp" %>
-</head>
-<body>
+<%@include file="Squelette/Base.jsp"%>
 <div style="position:absolute; top:5%; left:88%; right:0;">
 <a href="consultation">    
     <button class="btn btn-outline-primary d-flex">
@@ -26,7 +16,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${Groupe.name} $</h3>
+                  <h4 class="success">${Groupe.name} $</h4>
                   <span>Le nom de ce groupe</span>
                 </div>
                 <div class="align-self-center">
@@ -49,7 +39,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.employee.email} $</h3>
+                  <h4 class="success">${c.employee.email} $</h4>
                   <span>Son solde : ${c.employee.solde }$</span>
                 </div>
                 <div class="align-self-center">
@@ -62,5 +52,4 @@
         </a>
       </div>
 </t:forEach>
-</body>
-</html>
+<%@include file="Squelette/Footer.jsp"%>

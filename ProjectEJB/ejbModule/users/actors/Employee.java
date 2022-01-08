@@ -2,6 +2,7 @@ package users.actors;
 
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -10,10 +11,8 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import users.Group;
-import users.groupmembers.GroupMembers;
-import compte.comptes.Compte;
-import compte.operations.Operation;
+import accounts.comptes.Compte;
+import accounts.operations.Operation;
 
 @Entity
 @Table(name="EMPLOYES")
@@ -22,19 +21,21 @@ public class Employee extends User {
 	@Column(name="EMPLOYE_SOLDE")
 	private float solde;
 	
-	@OneToMany(mappedBy="employee", fetch=FetchType.EAGER)
-	private List<Compte> comptes;
-	/*
-	@OneToMany(mappedBy="employee", fetch=FetchType.EAGER)
-	private List<GroupMembers> groupmembres;
+	@ManyToOne(cascade={CascadeType.REMOVE, CascadeType.PERSIST})
+	@JoinColumn(name="supérieur_hiérarchique")
+	private Employee upperHierarchy;
 	
-	public List<GroupMembers> getGroupmembres() {
-		return groupmembres;
+	public Employee getUpperHierarchy() {
+		return upperHierarchy;
 	}
-	public void setGroupmembres(List<GroupMembers> groupmembres) {
-		this.groupmembres = groupmembres;
+
+	public void setUpperHierarchy(Employee upperHierarchy) {
+		this.upperHierarchy = upperHierarchy;
 	}
-	*/
+
+	@OneToMany(mappedBy="employee", fetch=FetchType.EAGER, orphanRemoval=true)
+	private List<Compte> comptes;
+	
 	public List<Compte> getComptes() {
 		return comptes;
 	}

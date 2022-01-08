@@ -1,14 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-    <%@taglib uri="http://java.sun.com/jsp/jstl/core"  prefix="t" %>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Consultation d'un Client</title>
-<%@include file="Scripts.jsp" %>
-</head>
-<body>
+<%@include file="Squelette/Base.jsp"%>
 <div style="position:absolute; top:5%; left:88%; right:0;">
 <a href="consultation">    
     <button class="btn btn-outline-primary d-flex">
@@ -27,7 +17,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${Client.name }</h3>
+                  <h4 class="success">${Client.name }</h4>
                   <span>Nom de ce client</span>
                 </div>
                 <div class="align-self-center">
@@ -45,7 +35,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${Client.email }</h3>
+                  <h4 class="success">${Client.email }</h4>
                   <span>email de ce client</span>
                 </div>
                 <div class="align-self-center">
@@ -63,7 +53,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${Client.password }</h3>
+                  <h4 class="success">${Client.password }</h4>
                   <span>Mot de passe de ce client</span>
                 </div>
                 <div class="align-self-center">
@@ -75,7 +65,7 @@
         </div>
       </div>
 	</section>
-<h1 class="mt-3 ml-3 mb-3">	Les Comptes associé à ce client </h1>
+<h1 class="mt-3 ml-3 mb-3">	Les Comptes associé é ce client </h1>
 
 	<section class="container-fluid row ml-2">
 	  <t:forEach items="${Comptes }" var="c">
@@ -86,7 +76,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.solde} $</h3>
+                  <h4 class="success">${c.solde} $</h4>
                   <span>Créer par ${c.employee.email}</span>
                   <br/>
                   <span>Type de Compte : Courant avec Découvert de ${c.decouvert }$  </span>
@@ -107,7 +97,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="success">${c.solde} $</h3>
+                  <h4 class="success">${c.solde} $</h4>
                   <span>Créer par ${c.employee.email}</span>
                   <br/>
                   <span>Type de Compte : Epargne avec Taux d'intéret de ${c.taux }$  </span>
@@ -123,5 +113,4 @@
       </t:if>
 </t:forEach>
 </section>
-</body>
-</html>
+<%@include file="Squelette/Footer.jsp"%>

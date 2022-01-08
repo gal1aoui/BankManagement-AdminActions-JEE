@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;ProjectEJB/ejbModule/compte&apos; to &apos;accounts&apos;" description="Rename resource &apos;compte&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ejbModule/compte" name="accounts" stamp="1641660451146" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;ProjectEJB/ejbModule/users/groupmembers&apos; to &apos;groups&apos;" description="Rename resource &apos;groupmembers&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ejbModule/users/groupmembers" name="groups" stamp="1641660524512" updateReferences="true"/>
+</session>
