@@ -1,7 +1,6 @@
 INDEX VERSION 1.122+C:\Users\galla\Desktop\Projet J2E\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3337993961.index
-3958461451.index
 2282003635.index
-3898356148.index
 1781063510.index
+3898356148.index
+3958461451.index
 1433314276.index
